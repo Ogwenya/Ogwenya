@@ -7,7 +7,6 @@ Python and JavaScript developer
 I'm a full stack Python and JavaScript developer. My frontend tool is react/next and for the back end I use Django and Node/Express. I'm currently learning DevOps.
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [Portfolio](https://ogwenya.com)
 * ✉️  You can contact me at [emanuelogwenya@outlook.com](mailto:emanuelogwenya@outlook.com)
 * 🧠  I'm learning DevOps
 * 🤝  I'm open to collaborating on Any frontend or back end gig
