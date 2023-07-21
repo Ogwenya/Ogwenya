@@ -8,8 +8,7 @@ I'm a full-stack Python and JavaScript developer. My frontend tool is react/next
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [emanuelogwenya@outlook.com](mailto:emanuelogwenya@outlook.com)
-* 🧠  I'm learning DevOps
-* 🤝  I'm open to collaborating on Any frontend or back-end gig
+* 🤝  I'm open to collaborating on Any front-end, back-end or full-stack gig
 
 ### Skills
 
