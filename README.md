@@ -4,11 +4,12 @@ Hi 👋 My name is Ogwenya
 Full-stack Python and JavaScript developer
 -------------------------------
 
-I'm a full-stack Python and JavaScript developer. My frontend tool is react/next; I use Django and Node/Express for the back end. I'm currently learning DevOps.
+I'm a full-stack Python and JavaScript developer. My frontend tool is react/next; I use Django and Node/Express for the back end.
 
 * 🌍  You can check my [portfolio website](https://ogwenya.vercel.app)
+* 🌍  I am currently building [FroTools](https://frotools.vercel.app/)
 * ✉️  You can contact me at [emanuelogwenya@outlook.com](mailto:emanuelogwenya@outlook.com)
-* 🤝  I'm open to collaborating on Any front-end, back-end or full-stack gig
+* 🤝  I'm open to collaborating on Any front-end, back-end, or full-stack gigs
 
 ### Skills
 
