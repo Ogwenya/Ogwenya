@@ -31,6 +31,8 @@ I'm a full-stack Python and JavaScript developer. My frontend tool is react/next
 - **Back-end**
 
   - Node.js
+  - Nest.js
+  - Express.js
   - Django
 
 - **Database**
