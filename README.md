@@ -24,6 +24,10 @@ I'm a full-stack Python and JavaScript developer. My frontend tool is react/next
   - React
   - Next.js
 
+- **Mobile**
+
+  - React Native
+
 - **Back-end**
 
   - Node.js
